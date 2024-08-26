@@ -48,8 +48,8 @@ Users should be able to:
 ### What I learned
 
 - how to structure the HTML - what is the header? footer? sections?
-- how to position the hero image
 - [Drawing Decorative Lines With CSS](https://pqina.nl/blog/drawing-decorative-lines-with-css/) - how to make the numbered sections with the circle and vertical line
+- how to position the hero image
 
 ### Continued development
 
