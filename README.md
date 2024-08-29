@@ -62,8 +62,6 @@ Users should be able to:
 
 ### Continued development
 
-Hmm 🤔
-
 - Utilize `clamp` to implement fluid typography wherever there is a font size change across viewport sizes.
   - [https://css-tricks.com/a-complete-guide-to-calc-in-css/](https://css-tricks.com/a-complete-guide-to-calc-in-css/)
   - [min(), max(), and clamp() are CSS magic!](https://css-tricks.com/min-max-and-clamp-are-css-magic/)
@@ -71,6 +69,12 @@ Hmm 🤔
   - [Absolute Horizontal And Vertical Centering In CSS](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
   - [Absolute Centering CodePen](https://codepen.io/shshaw/details/kOxGQa)
   - [Flexbox Is As Easy As Pie: Designing CSS Layouts](https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
+
+A possible better solution for dynamically sizing the hero image based on the width of the container while still allowing it to overflow the container to some extent. I recommended this kind of approach in [my comment an another person's solution](https://www.frontendmentor.io/solutions/meet-landing-page-scss-bem-grid-flexbox-zztleF0Y-Q):
+
+```css
+margin-inline-start: clamp(-2rem, calc((820px - 100vw) / -2), 0px);
+```
 
 ### Useful resources
 
