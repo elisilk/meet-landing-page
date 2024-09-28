@@ -14,7 +14,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgements](#acknowledgments)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -88,6 +88,6 @@ margin-inline-start: clamp(-2rem, calc((820px - 100vw) / -2), 0px);
 - Website - [Eli Silk](https://github.com/elisilk)
 - Frontend Mentor - [@elisilk](https://www.frontendmentor.io/profile/elisilk)
 
-## Acknowledgements
+## Acknowledgments
 
 - Thank you [@edpau](https://www.frontendmentor.io/profile/edpau) for your comments on my solution and helping me consider a new approach for the hero image.
