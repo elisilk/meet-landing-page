@@ -61,7 +61,7 @@ Users should be able to:
 - [Keep image height and hide its overflow part when it is wider than its container](https://stackoverflow.com/questions/48940673/keep-image-height-and-hide-its-overflow-part-when-it-is-wider-than-its-container)
 - [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 - [Mulitple backgrounds](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Using_multiple_backgrounds) - For the footer, layering a semi-transparent `rgba` color on top of the image is nice, clean solution for this part of the challenge.
-- Consider using Flexbox for the hero image as suggested in [a commment by @edpau on my solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-custom-properties-D5CcIdg1H6), which he got from[this article as a more "modern and elegant approach"](https://stackoverflow.com/questions/35847458/how-to-resize-an-image-cropping-it-equally-on-each-side-with-css)
+- Consider using Flexbox for the hero image as suggested in [a commment by @edpau on my solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-custom-properties-D5CcIdg1H6), which he got from [this article as a more "modern and elegant approach"](https://stackoverflow.com/questions/35847458/how-to-resize-an-image-cropping-it-equally-on-each-side-with-css)
 
 ### Continued development
 
